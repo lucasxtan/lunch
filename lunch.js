@@ -13,7 +13,7 @@
  * in minutes.
  */
 
-function whatToDoForLunch(hungry, availableTime) {
+const whatToDoForLunch = function(hungry, availableTime) {
   console.log("I don't know what to do!");
 }
 
