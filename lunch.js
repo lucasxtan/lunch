@@ -24,10 +24,7 @@ const whatToDoForLunch = function(hungry, availableTime) {
     };
 } else if (hungry === false){
   console.log("Wait until you're hungry if you're not");
-}
-}
-
-
+};
 
 /*
  * This is some test runner code that's simply calling our whatToDoForLunch function
